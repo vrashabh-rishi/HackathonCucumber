@@ -1,0 +1,52 @@
+12:12:14.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:12:14.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:12:14.943 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:12:35.345 [main] INFO  factory.BaseClass - Navigated to Home Page
+12:12:36.619 [main] INFO  factory.BaseClass - Trying to login in google
+12:12:38.370 [main] INFO  factory.BaseClass - Entering invalid credentials
+12:13:00.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:13:00.365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:13:00.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:13:26.576 [main] INFO  factory.BaseClass - Navigated to ZigWheels
+12:13:27.692 [main] INFO  factory.BaseClass - Navigated to NewBikes
+12:13:43.455 [main] INFO  factory.BaseClass - Clicked on Upcoming bikes
+12:13:45.744 [main] INFO  factory.BaseClass - Honda as manufacturer is selected 
+12:13:51.779 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+12:13:51.779 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:13:51.938 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:13:51.951 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:13:51.952 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+12:13:51.961 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:13:51.963 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:13:51.963 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:13:51.967 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:13:51.972 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:13:51.978 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:13:51.983 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:13:51.983 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+12:13:51.988 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:13:51.988 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:13:51.989 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:13:51.995 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:14:04.169 [main] INFO  factory.BaseClass - Navigated to ZigWheels
+12:14:12.752 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+12:14:12.753 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:14:12.758 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:14:12.761 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:14:12.762 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+12:14:12.766 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:14:12.767 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:14:12.768 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:14:12.774 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:14:12.777 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:14:12.780 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:14:12.783 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:14:12.783 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+12:14:12.789 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:14:12.790 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:14:12.791 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:14:12.795 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:56:23.694 [main] INFO  factory.BaseClass - Navigated to Home Page
+12:56:24.793 [main] INFO  factory.BaseClass - Trying to login in google
+12:56:26.461 [main] INFO  factory.BaseClass - Entering invalid credentials
+12:56:48.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
